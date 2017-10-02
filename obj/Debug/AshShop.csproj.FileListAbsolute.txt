@@ -1,0 +1,6 @@
+E:\asp webform\AshShop\AshShop\AshShop\bin\AshShop.dll.config
+E:\asp webform\AshShop\AshShop\AshShop\bin\AshShop.dll
+E:\asp webform\AshShop\AshShop\AshShop\bin\AshShop.pdb
+E:\asp webform\AshShop\AshShop\AshShop\obj\Debug\AshShop.dll
+E:\asp webform\AshShop\AshShop\AshShop\obj\Debug\AshShop.pdb
+E:\asp webform\AshShop\AshShop\AshShop\obj\Debug\AshShop.csprojResolveAssemblyReference.cache
